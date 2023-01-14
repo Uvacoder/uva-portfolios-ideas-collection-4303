@@ -22,13 +22,13 @@ export default {
     ],
     // Social Icons
     socialLinks: [
-      { icon: "github", link: "https://github.com/evavic44" },
-      { icon: "twitter", link: "https://twitter.com/victorekea" },
-      { icon: "linkedin", link: "https://linkedin.com/in/victorekeawa" },
+      { icon: "github", link: "https://github.com/uvacoder" },
+      { icon: "twitter", link: "https://twitter.com/VaLandscapes" },
+      { icon: "linkedin", link: "https://linkedin.com/in/alecbcampbell" },
     ],
     footer: {
       message: "Released under the MIT License.",
-      copyright: "Copyright © 2022-present Victor Eke | Portfolio Ideas",
+      copyright: "Copyright © 2023",
     },
     markdown: {
       theme: "material-palenight",
